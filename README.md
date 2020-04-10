@@ -5,6 +5,9 @@ In the meantime.. Jump over to my other work:
 
 https://github.com/djdizzyd/hubitat
 
-https://github.com/djdizzyd/Hubitat_RGBGenie/tree/master/Drivers
+https://github.com/RGBGenie/Hubitat_RGBGenie
+
+I have also contributed to drivers @ Inovelli:
+https://github.com/djdizzyd/Hubitat-Inovelli
 
 I will be updating this repo soon.. 
