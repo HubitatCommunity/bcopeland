@@ -8,6 +8,6 @@ https://github.com/djdizzyd/hubitat
 https://github.com/RGBGenie/Hubitat_RGBGenie
 
 I have also contributed to drivers @ Inovelli:
-https://github.com/djdizzyd/Hubitat-Inovelli
+https://github.com/InovelliUSA/Hubitat
 
 I will be updating this repo soon.. 
