@@ -1,0 +1,3 @@
+[submodule "MyMainRepo"]
+	path = hubitat
+	url = https://github.com/djdizzyd/hubitat
