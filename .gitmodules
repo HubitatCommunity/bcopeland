@@ -1,6 +1,1 @@
-[submodule "MyMainRepo"]
-	path = hubitat
-	url = https://github.com/djdizzyd/hubitat
-[submodule "Hubitat_RGBGenie"]
-	path = Hubitat_RGBGenie
-	url = https://github.com/RGBGenie/Hubitat_RGBGenie
+
